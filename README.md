@@ -1,12 +1,27 @@
 ## Hi there! I'm Erika Le Borgne !
 
-Currently a student at École 42 Paris after completing a Master in Management in Grenoble Ecole de Management
+🎓 Student at 42 Paris
+🔍 Seeking an AI Scientist internship  
 
-**Tech I'm using and learning**
-- Programming Languages: C, C++, Python
-- Tools & platforms: GitHub, VS Code, Linux, Docker
-- Frontend Tehcnologies: HTML, Javascript, React, Next.js
+---
 
+### 🧠 About me
+I’m interested in building intelligent systems with a strong focus on understanding what happens under the hood.
+
+My background combines:
+- solid foundations in Mathematics and algorithms  
+- hands-on experience with low-level programming (C/C++)  
+- a growing focus on Machine Learning and AI systems  
+
+### ⚙️ What I work on
+Machine Learning / AI projects
+Systems programming and low-level optimization
+Algorithmic problem solving
+
+## 🛠️Tech
+- **Languages**: C, C++, Python  
+- **Core skills**: Algorithms, data structures, optimization  
+- **Tools**: Linux, Git, Docker, VC Code
 
 <!--
 **erika-leb/erika-leb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
