@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there! I'm Erika Le Borgne !
+
+Currently a student at École 42 Paris after completing a Master in Management in Grenoble Ecole de Management
+
+#Techs I'm using and learning
+- Programming Languages: C, C++, Python
+- Tools & platforms: GitHub, VS Code, Linux, Docker
+- Frontend Tehcnologies: HTML, Javascript, React, Next.js
+
 
 <!--
 **erika-leb/erika-leb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
