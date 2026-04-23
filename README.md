@@ -2,7 +2,7 @@
 
 Currently a student at École 42 Paris after completing a Master in Management in Grenoble Ecole de Management
 
-#Techs I'm using and learning
+**Tech I'm using and learning**
 - Programming Languages: C, C++, Python
 - Tools & platforms: GitHub, VS Code, Linux, Docker
 - Frontend Tehcnologies: HTML, Javascript, React, Next.js
